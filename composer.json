@@ -1,0 +1,21 @@
+{
+    "name": "usfmphp/usfmparser",
+    "description": "USFM Parser",
+    "type": "library",
+    "require": {
+        "php": "~8.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "USFM\\USFMParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maxim",
+            "email": "murmax82@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
