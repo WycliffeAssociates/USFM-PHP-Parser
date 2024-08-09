@@ -1,10 +1,14 @@
 # USFM Parser in PHP
 A USFM parser component that was ported from [USFMToolsSharp](https://github.com/WycliffeAssociates/USFMToolsSharp)
 
+# Requirements
+
+`PHP >=8.0`
+
 # Installation
 Add in your composer.json file
 
-`"usfmphp/usfmparser": "0.1.0"`
+`"usfmphp/usfmparser": "0.2.0"`
 
 # Usage
 
