@@ -1,9 +1,14 @@
 # USFM Parser in PHP
 A USFM parser component that was ported from [USFMToolsSharp](https://github.com/WycliffeAssociates/USFMToolsSharp)
 
-# How to use
+# Installation
+Add in your composer.json file
 
-```
+`"usfmphp/usfmparser": "0.1.0"`
+
+# Usage
+
+```php
 <?php
 use USFM\USFMParser\USFMParser;
 use USFM\USFMParser\Models\Markers\CMarker;
