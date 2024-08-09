@@ -6,6 +6,8 @@ A USFM parser component that was ported from [USFMToolsSharp](https://github.com
 ```
 <?php
 use USFM\USFMParser\USFMParser;
+use USFM\USFMParser\Models\Markers\CMarker;
+use USFM\USFMParser\Models\Markers\VMarker;
 
 $usfmString = "<YOUR USFM TEXT>";
 
